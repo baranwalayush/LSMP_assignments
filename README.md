@@ -1,5 +1,5 @@
 # LSMP_assignments
-<h2> Loop Summer Mentorshoip Program </h2>
+<h2> Loop Summer Mentorship Program </h2>
 
 Assignment 1 :-
 <br> <br>
